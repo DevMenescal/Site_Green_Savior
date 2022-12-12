@@ -1,0 +1,101 @@
+[CORES]
+
+Branco:
+#f5f3f5___
+
+“Pretos”:
+#18121b___
+#29132d___
+
+Verdes:
+#002a32  ___
+#004d27___
+#007339___
+#4e937a ___
+#87b6a7___
+#59c9a5___
+
+Azuis:
+#011638___
+#0b4f6c___
+#81c3d7___
+
+Roxos:
+#3a143f___
+#560a4c___
+#600047___
+#870b56___
+#9f557b___
+
+Laranjas:
+#e15403___
+#fb8112___
+#fea621___
+#ffed9c___
+
+Rosas:
+#d40047___
+#f92a82___
+#f29ca3___
+#f2bbbf___
+
+
+[NOME DO JOGO] Green Savior
+
+[MENU]
+Home
+Créditos
+CPDI 
+[HOME]
+
+	O Agente Verde é um agente de limpeza da prefeitura de Florianópolis enviado para limpar as praias e mares e encontrar o responsável por tanta poluição. Sua missão é coletar e separar o lixo além de encontrar e derrotar o suspeito conhecido como Manézinho do Lixo. 
+Jogo educativo de aventura em plataforma. Classificação Livre.
+
+	Objetivo: conscientizar e educar a respeito do descarte inadequado de lixo na natureza e da separação correta de materiais recicláveis. O player deve recolher o máximo de itens de lixo que surgem no caminho para ganhar pontos e evitar trombar nos obstáculos naturais para não perder vidas e pontos. Após passados x segundos/minutos de gameplay da fase o player precisa enfrentar o chefão Manézinho do Lixo, desviar de seus tiros de poluição, que tiram vidas e pontos, e derrotá-lo para passar para as fases seguintes. Na fase final os itens de lixo devem ser devidamente separados nas lixeiras corretas.
+
+                                                      [VIDEO DO JOGO]
+
+	Plataforma: Tablet
+
+	Instruções:
+Andar: deslizar para os lados (somente na fase 2)
+Pular: tocar no personagem
+Atirar: tocar no inimigo
+
+	Referências:
+Jogo do Dinossauro da Google; [link]
+Subway Surfers; [link]
+Seaside Cleaning Day: [https://ivanm71.itch.io/seaside-cleaning-day]
+Its is my duty to cleanup this beach: [https://tape1.itch.io/it-is-my-duty-to-clean-up-this-beach]
+
+	Trilha Sonora:
+	
+
+	Linguagem: Lua
+	Softwares utilizados: 
+Solar2D
+Sublime Text 3
+VSCode
+Aseprite
+Photoshop CS6
+
+[FOOTER]
+Desenvolvimento: Gustavo Menescal, Julia Laurentino e Paulo Henrique
+
+
+[CREDITOS]
+
+Gustavo : [bio]
+[FOTO E LINKEDIN]
+Julia : [bio] 
+[FOTO E LINKEDIN]
+PAULO : [bio]
+[FOTO E LINKEDIN]
+
+
+[CPDI]
+
+	Projeto de desenvolvimento final da turma de 2022 do curso Além de Jogar eu Faço Jogos organizado pelo Comitê Pela Democratização da Informática. Florianópolis - SC - Brasil.
+
+[IMAGEM CURSO]
+[LOGO CPDI]
