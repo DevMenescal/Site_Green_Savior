@@ -230,7 +230,7 @@ section:nth-child(odd) {
 }
 
 .card-img-top {
-    max-height: 190px;
+    max-height: 360px;
 }
 .card {
     margin: 15px 0;
